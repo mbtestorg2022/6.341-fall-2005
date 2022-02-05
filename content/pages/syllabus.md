@@ -84,43 +84,429 @@ Course Grade
 
 The final grade for the course is based on our best assessment of your understanding of the material, as well as your commitment and participation. The exams, problem sets, and projects are combined with the following rough weighting to give a preliminary final grade:
 
-| ACTIVITIES | Option 1 | Option 2 |
-| --- | --- | --- |
-| Midterm | 35% | 30% |
-| Final Exam | 45% | 40% |
-| Problem Sets | 0% | 15% |
-| MATLAB® Project(s) | 20% | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+Option 1
+{{< thclose >}}
+{{< thopen >}}
+Option 2
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+0%
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MATLAB® Project(s)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 However, this provides only a starting point for assigning the final grade. Other factors such as interaction with the staff, participation in lecture and recitation, etc., can make a significant difference in the final grade. The process of assigning the final grade involves a lot of discussion among the staff and very often a careful review of the final exam to look "behind the numbers" to understand better the kinds of mistakes that were made. We know that the final grade is important to you and we take the process seriously.
 
 {{< anchor "alendar" >}}{{< /anchor >}}Calendar
 -----------------------------------------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course Overview | Problem set 1 out |
-| 2 | Background Review: Phase, Group Delay, and Generalized Linear Phase | Problem set 1 due  {{< br >}}  {{< br >}}Problem set 2 out |
-| 3 | Minimum-phase and All-pass Systems | &nbsp; |
-| 4 | DT Processing of CT Signals and CT Processing of DT Signals: Fractional Delay | Problem set 2 due  {{< br >}}  {{< br >}}Problem set 3 out |
-| &nbsp; | Background Exam | &nbsp; |
-| 5 | Sampling Rate Conversion | Problem set 3 due  {{< br >}}  {{< br >}}Problem set 4 out  {{< br >}}  {{< br >}}Project 1 out |
-| 6 | Quantization and Oversampled Noise Shaping | &nbsp; |
-| 7 | IIR, FIR Filter Structures | Problem set 4 due  {{< br >}}  {{< br >}}Problem set 5 out |
-| 8 | Filter Design: IIR Filters | &nbsp; |
-| 9 | Filter Design: FIR Filters | Problem set 5 due |
-| 10 | Multirate Systems and Polyphase Structures | Problem set 6 out |
-| 11 | Multirate Systems and Polyphase Structures (cont.) | &nbsp; |
-| 12 | Linear Prediction and All-pole Modeling | Problem set 6 due  {{< br >}}  {{< br >}}Problem set 7 out |
-| 13 | The Levinson-Durbin Recursion | &nbsp; |
-| 14 | Guest Lecture: Gene Frantz | Problem set 7 due  {{< br >}}  {{< br >}}Problem set 8 out  {{< br >}}  {{< br >}}Project 1 due |
-| 15 | The Discrete Fourier Transform (DFT) | &nbsp; |
-| &nbsp; | Midterm Exam | &nbsp; |
-| 16 | Linear Filtering with the DFT | &nbsp; |
-| 17 | Spectral Analysis with the DFT | Problem set 8 due  {{< br >}}  {{< br >}}Problem set 9 out  {{< br >}}  {{< br >}}Project 2 out |
-| 18 | Periodogram | &nbsp; |
-| 19 | FFT Algorithms | Problem set 9 due  {{< br >}}  {{< br >}}Problem set 10 out |
-| 20 | The Goertzel Algorithm and the Chirp Transform | Problem set 10 due  {{< br >}}  {{< br >}}Problem set 11 out |
-| 21 | Short-time Fourier Analysis | &nbsp; |
-| 22 | Modulated Filter Bank | Project 2 due |
-| 23 | Caruso's Orchestra | Problem set 11 due |
-| &nbsp; | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Background Review: Phase, Group Delay, and Generalized Linear Phase
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due  
+  
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Minimum-phase and All-pass Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+DT Processing of CT Signals and CT Processing of DT Signals: Fractional Delay
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due  
+  
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Background Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sampling Rate Conversion
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due  
+  
+Problem set 4 out  
+  
+Project 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Quantization and Oversampled Noise Shaping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+IIR, FIR Filter Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due  
+  
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Filter Design: IIR Filters
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Filter Design: FIR Filters
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Multirate Systems and Polyphase Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Multirate Systems and Polyphase Structures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Prediction and All-pole Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due  
+  
+Problem set 7 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Levinson-Durbin Recursion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Gene Frantz
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due  
+  
+Problem set 8 out  
+  
+Project 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Discrete Fourier Transform (DFT)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Filtering with the DFT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Spectral Analysis with the DFT
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due  
+  
+Problem set 9 out  
+  
+Project 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Periodogram
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+FFT Algorithms
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due  
+  
+Problem set 10 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The Goertzel Algorithm and the Chirp Transform
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due  
+  
+Problem set 11 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Short-time Fourier Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Modulated Filter Bank
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Caruso's Orchestra
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 11 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
