@@ -4,7 +4,7 @@ title: Assignments
 uid: bb9bc615-4a3f-1901-b301-05cf57e460ca
 ---
 
-Homework Contract (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/contract_f05))
+Homework Contract ([PDF]({{< baseurl >}}/resources/contract_f05))
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -33,25 +33,25 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2soln))
+([PDF]({{< baseurl >}}/resources/ps2soln))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3soln))
+([PDF]({{< baseurl >}}/resources/ps3soln))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps4))
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps4soln))
+([PDF]({{< baseurl >}}/resources/ps4soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Problem Set 4 (![This resource may not render correctly in a screen reader.](/im
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps5soln))
+([PDF]({{< baseurl >}}/resources/ps5soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7soln))
+([PDF]({{< baseurl >}}/resources/ps7soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps8))
 Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps9))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps9soln))
+([PDF]({{< baseurl >}}/resources/ps9soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,10 +111,10 @@ Problem Set 10 ([PDF]({{< baseurl >}}/resources/ps10))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps11))
+Problem Set 11 ([PDF]({{< baseurl >}}/resources/ps11))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps11soln))
+([PDF]({{< baseurl >}}/resources/ps11soln))
 {{< tdclose >}}
 
 {{< trclose >}}

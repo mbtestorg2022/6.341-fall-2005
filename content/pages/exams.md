@@ -48,7 +48,7 @@ Midterm Exam ([PDF]({{< baseurl >}}/resources/midexam))
 Final Exam ([PDF]({{< baseurl >}}/resources/final_fall05))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_f05_soln))
+([PDF]({{< baseurl >}}/resources/final_f05_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,16 +72,16 @@ Background Exam ([PDF]({{< baseurl >}}/resources/backexam_fall04))
 Midterm Exam ([PDF]({{< baseurl >}}/resources/midexam_fall04))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/midexam_f04_soln))
+([PDF]({{< baseurl >}}/resources/midexam_f04_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Final Exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_fall04))
+Final Exam ([PDF]({{< baseurl >}}/resources/final_fall04))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_fall04_sol))
+([PDF]({{< baseurl >}}/resources/final_fall04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}

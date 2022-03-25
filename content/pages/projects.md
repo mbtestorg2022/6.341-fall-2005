@@ -6,7 +6,7 @@ uid: 0d6abafb-55bb-d2d0-610e-ff377147d3aa
 
 The project assignments in this section refer to Athena, which is MIT's UNIX®-based computing environment.
 
-Two projects were assigned over the course of the term. Students were asked to submit written project reports and any appropriate MATLAB® plots. The instructions for both projects are included in a single file. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projectf05))
+Two projects were assigned over the course of the term. Students were asked to submit written project reports and any appropriate MATLAB® plots. The instructions for both projects are included in a single file. ([PDF]({{< baseurl >}}/resources/projectf05))
 
 Files for Project 1
 -------------------
